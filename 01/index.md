@@ -1,0 +1,1 @@
+# ROS beredskap fylkeshuset

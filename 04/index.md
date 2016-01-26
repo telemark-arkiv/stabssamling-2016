@@ -1,0 +1,1 @@
+# Enklere tidsregistrering for ansatte
